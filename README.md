@@ -3,15 +3,6 @@
 Juego de laberintos desarrollado en Wollok como proyecto final de la materia **Objetos 1** en la Universidad Nacional de Quilmes.
  
 ---
- 
-## 👩‍💻 Equipo de desarrollo
- 
-- Estefanía Borzi
-- Lucía Viazzo
-
----
-
-## Imágenes
 
 <img src="screenshot1.png" width="350px" height="350px">
 <img src="screenshot2.png" width="350px" height="350px">
